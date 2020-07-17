@@ -39,3 +39,4 @@ A curated list of awesome resources for Kubernetes operators.
 - https://www.youtube.com/watch?v=ZU6gVQqj0IA&feature=youtu.be
 - https://www.youtube.com/watch?v=v65mvkxYN9k&feature=youtu.be
 - https://www.youtube.com/watch?v=NQ5Z6GI9E-Q&list=PL4jag8ijtDPwmF-BRtOrCvhlHSGW3l9D3&index=19&t=0s
+- https://www.youtube.com/watch?time_continue=2431&v=eoVInwcGSdE&feature=emb_logo
