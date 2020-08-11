@@ -1,5 +1,4 @@
 # Awesome Operator SDK [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[<img src="operator_logo_sdk_color.svg" align="right" width="100">](https://github.com/operator-framework/operator-sdk/raw/master/website/static/operator_logo_sdk_color.svg)
 
 A curated list of awesome resources for [operator-sdk](https://github.com/operator-framework/operator-sdk) framework.
 
