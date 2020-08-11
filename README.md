@@ -6,7 +6,6 @@ A curated list of awesome resources for [operator-sdk](https://github.com/operat
 ## Contributing
 
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-Contributions are always welcome!
 
 
 ## Contents
