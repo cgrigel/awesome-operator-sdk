@@ -66,4 +66,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Kubernetes Operator SDK Master Course II](https://www.youtube.com/watch?v=v65mvkxYN9k&feature=youtu.be)
 - [Operatorhub.io and your Kubernetes cluster (DevNation Tech Talk)](https://www.youtube.com/watch?time_continue=2431&v=eoVInwcGSdE&feature=emb_logo)
 - [What's New in Operator Framework (Rob Szumski, Red Hat OpenShift Commons Briefing)](https://www.youtube.com/watch?v=0ctHLb5DPp8)
+- [Zero to Operator in 90 Minutes! (Solly Ross, Google)](https://www.youtube.com/watch?v=KBTXBUVNF2I)
+- [Writing a Kubernetes Operator: the Hard Parts (Sebastien Guilloux, Elastic)](https://www.youtube.com/watch?v=wMqzAOp15wo)
+- [Deep Dive into the Operator Framework for Kubernetes (Melvin Hillsman, Michael Hrivnak, & Matt Dorn)]()
 
