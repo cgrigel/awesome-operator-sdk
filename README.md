@@ -22,10 +22,10 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Getting Started](https://github.com/operator-framework/getting-started)
 - [User Guide](https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md)
 - [Kubernetes Operators Explained](https://blog.container-solutions.com/kubernetes-operators-explained)
+- [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
 
 
 ## Guidelines:
-- [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
 - [Demystifying Kubernetes Operators with the Operator SDK](https://www.linux.com/training-tutorials/demystifying-kubernetes-operators-operator-sdk-part-2/)
 - [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - [Developing a Kubernetes operator with the Operator Framework | RU](https://habr.com/ru/company/lamoda/blog/446648/)
@@ -37,13 +37,13 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Testing
 - [Automatic testing using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-article-part-4-automatic-testing-using-operator-sdk-d85a1d95f72c)
-- [KUbernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
+- [Kubernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
 - [Golang BDD Testing Framework (Ginkgo)](https://onsi.github.io/ginkgo/)
 
 
 ## API Reference:
 - [Kubernetes API Reference](https://godoc.org/k8s.io/api)
--  [Kubernetes API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
+- [Kubernetes API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 - [Kubernetes Sample Controller](https://github.com/kubernetes/sample-controller)
 - [kubebuilder API Reference](https://book.kubebuilder.io/)
 
