@@ -25,6 +25,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## Guidelines:
+- [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
 - [Demystifying Kubernetes Operators with the Operator SDK](https://www.linux.com/training-tutorials/demystifying-kubernetes-operators-operator-sdk-part-2/)
 - [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - [Developing a Kubernetes operator with the Operator Framework | RU](https://habr.com/ru/company/lamoda/blog/446648/)
