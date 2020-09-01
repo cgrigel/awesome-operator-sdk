@@ -69,5 +69,5 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [What's New in Operator Framework (Rob Szumski, Red Hat OpenShift Commons Briefing)](https://www.youtube.com/watch?v=0ctHLb5DPp8)
 - [Zero to Operator in 90 Minutes! (Solly Ross, Google)](https://www.youtube.com/watch?v=KBTXBUVNF2I)
 - [Writing a Kubernetes Operator: the Hard Parts (Sebastien Guilloux, Elastic)](https://www.youtube.com/watch?v=wMqzAOp15wo)
-- [Deep Dive into the Operator Framework for Kubernetes (Melvin Hillsman, Michael Hrivnak, & Matt Dorn)]()
+- [Deep Dive into the Operator Framework for Kubernetes (Melvin Hillsman, Michael Hrivnak, & Matt Dorn)](https://www.youtube.com/watch?v=8_DaCcRMp5I)
 
