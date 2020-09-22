@@ -41,6 +41,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 ## Best Practices:
 - [Operator Best Practices](https://github.com/operator-framework/community-operators/blob/master/docs/best-practices.md)
 - [Kubernetes Operators Best Practices](https://www.openshift.com/blog/kubernetes-operators-best-practices)
+- [Best practices for building Kubernetes Operators and stateful apps](https://cloud.google.com/blog/products/containers-kubernetes/best-practices-for-building-kubernetes-operators-and-stateful-apps)
 
 
 ## Tips and Tricks
