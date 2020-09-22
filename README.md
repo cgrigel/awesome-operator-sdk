@@ -11,6 +11,8 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 ## Contents
 - [Getting Starting](#getting-starting)
 - [Guidelines](#guidelines)
+- [Best Practices](#Best-Practices)
+- [Tips and Tricks](#Tips-and-Tricks)
 - [Testing](#Testing)
 - [Kubernetes API Reference](#Kubernetes-API-Reference)
 - [Сatalogue](#Сatalogue)
@@ -23,6 +25,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [User Guide](https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md)
 - [Kubernetes Operators Explained](https://blog.container-solutions.com/kubernetes-operators-explained)
 - [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
+- [Quickstart for Go-based Operators](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
 
 
 ## Guidelines:
@@ -33,6 +36,15 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Design and implementation details](https://medium.com/@flugel.it/building-kubernetes-operators-part-2-design-and-implementation-details-7cfbe85405fa)
 - [Writing Kubernetes Operator using Operator SDK](https://medium.com/@shubhomoybiswas/writing-kubernetes-operator-using-operator-sdk-c2e7f845163a)
 - [Building Operators in Go using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-part-3-building-operators-in-go-using-operator-sdk-1ca9960b9e02)
+
+
+## Best Practices:
+- [Operator Best Practices](https://github.com/operator-framework/community-operators/blob/master/docs/best-practices.md)
+- [Kubernetes Operators Best Practices](https://www.openshift.com/blog/kubernetes-operators-best-practices)
+
+
+## Tips and Tricks
+- [5 tips for developing Kubernetes Operators with the new Operator SDK](https://developers.redhat.com/blog/2020/09/11/5-tips-for-developing-kubernetes-operators-with-the-new-operator-sdk/?sc_cid=7013a0000025xXzAAI)
 
 
 ## Testing
