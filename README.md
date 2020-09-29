@@ -25,6 +25,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [User Guide](https://github.com/operator-framework/operator-sdk/blob/master/doc/user-guide.md)
 - [Kubernetes Operators Explained](https://blog.container-solutions.com/kubernetes-operators-explained)
 - [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
+- [Kubernetes Operators 101](https://www.cloudops.com/blog/kubernetes-operators-101/)
 - [Quickstart for Go-based Operators](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
 
 
