@@ -16,6 +16,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Testing](#Testing)
 - [Kubernetes API Reference](#Kubernetes-API-Reference)
 - [Сatalogue](#Сatalogue)
+- [Cloud](#Cloud)
 - [Books](#Books)
 - [Videos](#Videos)
 
@@ -68,6 +69,11 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Community Operators](https://github.com/operator-framework/community-operators)
 - [CoreOS Operators](https://github.com/coreos?q=operator&type=&language=)
 - [Banzai Cloud Operators](https://github.com/banzaicloud?q=operator&type=&language=)
+
+## Cloud:
+- [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s)
+- [Azure Service Operator (for Kubernetes)](https://github.com/Azure/azure-service-operator)
+- [GCP Config Connector](https://cloud.google.com/config-connector/docs/overview)
 
 ## Books:
 - [Kubernetes Operators](https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf)
