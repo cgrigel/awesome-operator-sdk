@@ -54,6 +54,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Automatic testing using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-article-part-4-automatic-testing-using-operator-sdk-d85a1d95f72c)
 - [Kubernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
 - [Golang BDD Testing Framework (Ginkgo)](https://onsi.github.io/ginkgo/)
+- [Operator integration testing for Operator Lifecycle Manager](https://developers.redhat.com/blog/2021/01/18/operator-integration-testing-for-operator-lifecycle-manager/)
 
 
 ## API Reference:
