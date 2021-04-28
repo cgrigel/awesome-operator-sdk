@@ -31,6 +31,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## Guidelines:
+- [Writing a Kubernetes Operator: From Zero to Hero](https://anupamgogoi.medium.com/writing-a-kubernetes-operator-from-zero-to-hero-8ca5dc2462b7)
 - [Demystifying Kubernetes Operators with the Operator SDK](https://www.linux.com/training-tutorials/demystifying-kubernetes-operators-operator-sdk-part-2/)
 - [A complete guide to Kubernetes Operator SDK](https://banzaicloud.com/blog/operator-sdk/)
 - [Developing a Kubernetes operator with the Operator Framework | RU](https://habr.com/ru/company/lamoda/blog/446648/)
