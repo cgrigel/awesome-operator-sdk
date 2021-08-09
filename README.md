@@ -39,6 +39,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Design and implementation details](https://medium.com/@flugel.it/building-kubernetes-operators-part-2-design-and-implementation-details-7cfbe85405fa)
 - [Writing Kubernetes Operator using Operator SDK](https://medium.com/@shubhomoybiswas/writing-kubernetes-operator-using-operator-sdk-c2e7f845163a)
 - [Building Operators in Go using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-part-3-building-operators-in-go-using-operator-sdk-1ca9960b9e02)
+- [Build a Highly Available Kubernetes Operator Using Golang](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
 
 
 ## Best Practices:
