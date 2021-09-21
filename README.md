@@ -28,6 +28,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Kubernetes Operators 101](https://www.cloudops.com/blog/kubernetes-operators-101/)
 - [‘Hello, World’ tutorial with Kubernetes Operators](https://developers.redhat.com/blog/2020/08/21/hello-world-tutorial-with-kubernetes-operators/120100/?sc_cid=7013a000002h14YAAQ)
 - [Quickstart for Go-based Operators](https://sdk.operatorframework.io/docs/building-operators/golang/quickstart/)
+- [Build a K8s Operator in 6 steps](https://developers.redhat.com/articles/2021/09/07/build-kubernetes-operator-six-steps?sc_cid=7013a000002pkdsAAA)
 
 
 ## Guidelines:
