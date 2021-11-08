@@ -54,6 +54,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## Testing
+- [Unit testing Kubernetes operators using mocks](https://itnext.io/unit-testing-kubernetes-operators-using-mocks-ba3ba2483ba3)
 - [Automatic testing using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-article-part-4-automatic-testing-using-operator-sdk-d85a1d95f72c)
 - [Kubernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
 - [Golang BDD Testing Framework (Ginkgo)](https://onsi.github.io/ginkgo/)
