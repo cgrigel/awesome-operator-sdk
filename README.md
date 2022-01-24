@@ -66,6 +66,7 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Kubernetes API Conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md)
 - [Kubernetes Sample Controller](https://github.com/kubernetes/sample-controller)
 - [kubebuilder API Reference](https://book.kubebuilder.io/)
+- [HOW KUBERNETES VALIDATES CUSTOM RESOURCES](https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/)
 
 
 ## Сatalogue:
