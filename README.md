@@ -112,4 +112,3 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Writing a Kubernetes Operator: the Hard Parts (Sebastien Guilloux, Elastic)](https://www.youtube.com/watch?v=wMqzAOp15wo)
 - [Deep Dive into the Operator Framework for Kubernetes (Melvin Hillsman, Michael Hrivnak, & Matt Dorn)](https://www.youtube.com/watch?v=8_DaCcRMp5I)
 - [Testing Kubernetes Operators (Artem Nikitin, Heisenbug | RU)](https://www.youtube.com/watch?v=mSsqzQpw8Vs)
-
