@@ -13,10 +13,12 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [Guidelines](#guidelines)
 - [Best Practices](#Best-Practices)
 - [Tips and Tricks](#Tips-and-Tricks)
-- [Testing](#Testing)
+- [Working with Kubernetes API](#Working-with-Kubernetes-API)
 - [Kubernetes API Reference](#Kubernetes-API-Reference)
-- [Сatalogue](#Сatalogue)
+- [Testing](#Testing)
+- [Security](#Security)
 - [Cloud](#Cloud)
+- [Сatalogue](#Сatalogue)
 - [Books](#Books)
 - [Videos](#Videos)
 
@@ -53,12 +55,10 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [5 tips for developing Kubernetes Operators with the new Operator SDK](https://developers.redhat.com/blog/2020/09/11/5-tips-for-developing-kubernetes-operators-with-the-new-operator-sdk/?sc_cid=7013a0000025xXzAAI)
 
 
-## Testing
-- [Unit testing Kubernetes operators using mocks](https://itnext.io/unit-testing-kubernetes-operators-using-mocks-ba3ba2483ba3)
-- [Automatic testing using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-article-part-4-automatic-testing-using-operator-sdk-d85a1d95f72c)
-- [Kubernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
-- [Golang BDD Testing Framework (Ginkgo)](https://onsi.github.io/ginkgo/)
-- [Operator integration testing for Operator Lifecycle Manager](https://developers.redhat.com/blog/2021/01/18/operator-integration-testing-for-operator-lifecycle-manager/)
+## Working with Kubernetes API:
+- [Kubernetes API Basics - Resources, Kinds, and Objects](https://iximiuz.com/en/posts/kubernetes-api-structure-and-terminology/)
+- [How To Call Kubernetes API using Simple HTTP Client](https://iximiuz.com/en/posts/kubernetes-api-call-simple-http-client/)
+- [How To Call Kubernetes API using Go - Types and Common Machinery](https://iximiuz.com/en/posts/kubernetes-api-go-types-and-common-machinery/)
 
 
 ## API Reference:
@@ -69,6 +69,24 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [HOW KUBERNETES VALIDATES CUSTOM RESOURCES](https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/)
 
 
+## Testing
+- [Unit testing Kubernetes operators using mocks](https://itnext.io/unit-testing-kubernetes-operators-using-mocks-ba3ba2483ba3)
+- [Automatic testing using Operator SDK](https://medium.com/@flugel.it/building-custom-kubernetes-operators-article-part-4-automatic-testing-using-operator-sdk-d85a1d95f72c)
+- [Kubernetes Test TooL (KUTTL)](https://github.com/kudobuilder/kuttl)
+- [Golang BDD Testing Framework (Ginkgo)](https://onsi.github.io/ginkgo/)
+- [Operator integration testing for Operator Lifecycle Manager](https://developers.redhat.com/blog/2021/01/18/operator-integration-testing-for-operator-lifecycle-manager/)
+
+
+## Security
+- [Securing Admission Controllers](https://kubernetes.io/blog/2022/01/19/secure-your-admission-controllers-and-webhooks/)
+
+
+## Cloud:
+- [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s)
+- [Azure Service Operator (for Kubernetes)](https://github.com/Azure/azure-service-operator)
+- [GCP Config Connector](https://cloud.google.com/config-connector/docs/overview)
+
+
 ## Сatalogue:
 - [Operator Hub](https://operatorhub.io/)
 - [Awesome Operators](https://github.com/operator-framework/awesome-operators)
@@ -76,14 +94,11 @@ Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 - [CoreOS Operators](https://github.com/coreos?q=operator&type=&language=)
 - [Banzai Cloud Operators](https://github.com/banzaicloud?q=operator&type=&language=)
 
-## Cloud:
-- [AWS Controllers for Kubernetes (ACK)](https://github.com/aws/aws-controllers-k8s)
-- [Azure Service Operator (for Kubernetes)](https://github.com/Azure/azure-service-operator)
-- [GCP Config Connector](https://cloud.google.com/config-connector/docs/overview)
 
 ## Books:
 - [Kubernetes Operators](https://www.redhat.com/cms/managed-files/cl-oreilly-kubernetes-operators-ebook-f21452-202001-en_2.pdf)
 - [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+- [Kubernetes Admission Control Threat Model](https://github.com/kubernetes/sig-security/tree/main/sig-security-docs/papers/admission-control)
 
 
 ## Videos
